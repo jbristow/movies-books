@@ -56,3 +56,5 @@
 * Mulholland Drive
 * Last King of Scotland
 * Looper
+* Braveheart
+* Gladiator
