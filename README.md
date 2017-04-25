@@ -10,4 +10,4 @@ The current guidelines are:
 * The list may change over time as some moves just don't hold up. Take this as a sign that your recommendation was wrong and feel bad.
 
 # books
-This repo will also house book recommendation. This list is grouped by age group.
+This repo contains book recommendations. The recommendations are grouped by age group.
