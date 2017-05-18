@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?><booklist>
+  <book>
+    <rank>100</rank>
+    <title>The Postman</title>
+    <author>
+      <fname>David</fname>
+      <lname>Brin</lname>
+    </author>
+    <read>No</read>
+    <inquest>You've seen the movie about one man standing up for his ideals in post-apocalypse America.  Now read the book.  It's better.</inquest>
+  </book>
+  <book>
+    <rank>99</rank>
+    <title>Carrion Comfort</title>
+    <author>
+      <fname>Dan</fname>
+      <lname>Simmons</lname>
+    </author>
+    <read>No</read>
+    <inquest>A secret society of psychic vampires feed off others' misery and play games with human minds.</inquest>
+  </book>
+  <book>
+    <rank>98</rank>
+    <title>Through the Looking Glass</title>
+    <author>
+      <fname>Lewis</fname>
+      <lname>Carroll</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>In the novel that follows <i>Alice in Wonderland</i>, young Alice seeks to return home while exploring a mad, enchanted land and dodging those who seek to do her harm.</inquest>
+  </book>
+  <book>
+    <rank>97</rank>
+    <title>The High Crusade</title>
+    <author>
+      <fname>Poul</fname>
+      <lname>Anderson</lname>
+    </author>
+    <read>No</read>
+    <inquest>Dark Age knights commandeer a space craft and conquer the galaxy, converting aliens to Christianity along the way.</inquest>
+  </book>
+  <book>
+    <rank>96</rank>
+    <title>Snow Crash</title>
+    <author>
+      <fname>Neal</fname>
+      <lname>Stephenson</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The first cyberpunk novel to feature a Matrix with personality and the first hints of virtual reality.  Plus, you've gotta love a main character named Hiro Protagonist who's a hacker, samurai-swordsman and pizza-delivery guy for The Mob.</inquest>
+  </book>
+  <book>
+    <rank>95</rank>
+    <title>The Kraken Wastes</title>
+    <author>
+      <fname>John</fname>
+      <lname>Wydham</lname>
+    </author>
+    <read>No</read>
+    <inquest>An unusual "invasion from below" premise with a couple similar to Paul and Jamie from "Mad About You" fulfilling the lead roles.</inquest>
+  </book>
+  <book>
+    <rank>94</rank>
+    <title>Way Station</title>
+    <author>
+      <fname>Clifford</fname>
+      <lname>Simak</lname>
+    </author>
+    <read>No</read>
+    <inquest>An Earthling is employed by an intergalactic federation to watch over a Way Station they secretly set up on Earth.  Can he balance the loyalties to his race and to his employers to prevent an atomic war?</inquest>
+  </book>
+  <book>
+    <rank>93</rank>
+    <title>Swords</title>
+    <author>
+      <fname>Fred</fname>
+      <lname>Saberhagen</lname>
+    </author>
+    <read>No</read>
+    <inquest>The god Vulcan crafts magical blades, each with a specific unstoppable power, and unleashes them upon an unsuspecting world.  First, humanity uses the swords to kill the gods.  After that, things get violent.</inquest>
+    <series>
+      <name>The First Book of Swords</name>
+      <name>The Second Book of Swords</name>
+      <name>The Third Book of Swords</name>
+      <name>The First Book of Lost Swords: Woundhealer's Story</name>
+      <name>The First Book of Lost Swords: Sightblinder's Story</name>
+      <name>The Second Book of Lost Swords: Stonecutter's Story</name>
+      <name>The Third Book of Lost Swords: Farslayer's Story</name>
+      <name>The Fourth Book of Lost Swords: Coinspinner's Story</name>
+      <name>The Fifth Book of Lost Swords: Mindsword's Story</name>
+      <name>The Sixth Book of Lost Swords: Wayfinder's Story</name>
+      <name>The Last Book of Lost Swords: Shieldbreaker's Story</name>
+    </series>
+  </book>
+  <book>
+    <rank>92</rank>
+    <title>The Four Lords of the Diamond</title>
+    <author>
+      <fname>Jack</fname>
+      <lname>Chalker</lname>
+    </author>
+    <read>No</read>
+    <inquest>A secret agent has his mind copied into four different bodies to infiltrate four enemy worlds and assassinate their rulers.</inquest>
+    <series>
+      <name>Lilith: A Snake in the Grass</name>
+      <name>Cerberus: A Wolf in the Fold</name>
+      <name>Charon: A Dragon at the Gate</name>
+      <name>Medusa: A Tiger by the Tail</name>
+    </series>
+  </book>
+  <book>
+    <rank>91</rank>
+    <title>The Songs of Distant Earth</title>
+    <author>
+      <fname>Arthur C.</fname>
+      <lname>Clarke</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Humankind learns that the Sun is going to explode and sends its genetic seed into the universe before the Earth is destroyed.  This is hard science fiction with a reasonably viable method of space travel.</inquest>
+  </book>
+  <book>
+    <rank>90</rank>
+    <title>Flowers for Algernon</title>
+    <author>
+      <fname>Daniel</fname>
+      <lname>Keyes</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A mentally retarded custodian undergoes a breakthrough surgery that triples his IQ.  He's got the mind of a genius, but the emotional maturity of a child.</inquest>
+  </book>
+  <book>
+    <rank>89</rank>
+    <title>Downbelow Station</title>
+    <author>
+      <fname>C.J.</fname>
+      <lname>Cherryh</lname>
+    </author>
+    <read>No</read>
+    <inquest>Humanity has been exploring space for a few hundred years with sub-light ships, long enough to establish trade routes between orbital stations in a handful of distant solar systems.  Downbelow Station is at the crux of the shipping routes, the gateway to Earth's defensive perimeter.  Earth authorities worry that the sub-light communication lags--of 10 years or more in some cases--are giving their distant colonies and upstart merchant vessels too much freedum, but when earth finally cracks down, it's already too late: Scientists at distant Cyteen have already built the first faster-than-light spacedrive, and Cyteen has become the center of a new power called Union.  Although Downbelow Station has always prided itself on its neutrality, it's now caught between Earth, Union and merchanter forces, fated to become the center of the conflict.</inquest>
+  </book>
+  <book>
+    <rank>88</rank>
+    <title>The Silence of the Lambs</title>
+    <author>
+      <fname>Thomas</fname>
+      <lname>Harris</lname>
+    </author>
+    <read>No</read>
+    <inquest>An FBI agent must enlist the help of a sadistic serial killer to hunt down another serial killer.</inquest>
+  </book>
+  <book>
+    <rank>87</rank>
+    <title>To Your Scattered Bodies Go</title>
+    <author>
+      <fname>Philip José</fname>
+      <lname>Farmer</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Anyone who has ever died--you, me, Hitler, Mark Twain--ends up on a strange alien world.  The first book in the "Riverworld" series follows the adventures of a lone explorer trying to puzzle out the mysteries of this freakish "afterlife."</inquest>
+  </book>
+  <book>
+    <rank>86</rank>
+    <title>The Last Unicorn</title>
+    <author>
+      <fname>Peter S.</fname>
+      <lname>Beagle</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>When a unicorn recieves word that all the other unicorns have vanished, she embarks on a quest to find her lost fellows.  She is mortal for a brief period and is the only unicorn that has ever loved a human being for more than a short time.</inquest>
+  </book>
+  <book>
+    <rank>85</rank>
+    <title>Crystal Express</title>
+    <author>
+      <fname>Bruce</fname>
+      <lname>Sterling</lname>
+    </author>
+    <read>No</read>
+    <inquest>Humanity has finally abandoned earth for space and divided into two factions separated by biology as well as phiosophy.  The Shaper faction uses genetic and bio-engineering to adapt their bodies to space while the Mechanists believe in creating superior humans using cybernetic enhancements.</inquest>
+  </book>
+  <book>
+    <rank>84</rank>
+    <title>Catspaw</title>
+    <author>
+      <fname>Joan</fname>
+      <lname>Vinge</lname>
+    </author>
+    <read>No</read>
+    <inquest>Cyberpunk, murder-mystery and political intrigue twist together in this page-turner which tells the story of Cat, a half-human psychic, forced to work as a bodyguard for the people he hates most.</inquest>
+  </book>
+  <book>
+    <rank>83</rank>
+    <title>Lyonesse</title>
+    <author>
+      <fname>Jack</fname>
+      <lname>Vance</lname>
+    </author>
+    <read>No</read>
+    <inquest>Supernatural novels full of faeries, witches and inter-kingdom intrigue--and it all takes place beneath the English Channel.</inquest>
+    <series>
+      <name>Suldren's Garden</name>
+      <name>The Green Pearl</name>
+      <name>Madouc</name>
+    </series>
+  </book>
+  <book>
+    <rank>82</rank>
+    <title>Gun, With Occasional Music</title>
+    <author>
+      <fname>Jonathan</fname>
+      <lname>Lethem</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A private eye gets involved in a murder mystery in a near, dark future populated by leftover humans and animals--like gun-toting kangaroos--genetically enhanced to near-human intelligence.  Scathingly dark and very funny.</inquest>
+  </book>
+  <book>
+    <rank>81</rank>
+    <title>The Invisible Man</title>
+    <author>
+      <fname>H.G.</fname>
+      <lname>Wells</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A scientist's sanity and morality is the price of his invisibility formula.</inquest>
+  </book>
+  <book>
+    <rank>80</rank>
+    <title>Space Trilogy</title>
+    <author>
+      <fname>C.S.</fname>
+      <lname>Lewis</lname>
+    </author>
+    <read>No</read>
+    <inquest>A Mars rampant with life.  A water-covered Venus populated with floating, living "islands."  And Earth where King Arthur fights corporate Britain.</inquest>
+    <series>
+      <name>Out of the Silent Planet</name>
+      <name>Perelandra</name>
+      <name>That Hideous Strength</name>
+    </series>
+  </book>
+  <book>
+    <rank>79</rank>
+    <title>Stranger in a Strange Land</title>
+    <author>
+      <fname>Robert A.</fname>
+      <lname>Heinlein</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The Stranger is Valentine Michael Smith, and the Strange Land is Earth.  Smith was born on Mars, the only human survivor of our first expedition there.  He was raised by Martians, then "rescued" by the second expedition some 25 years later.  He thinks of himself as a Martian and uses Martian abilities like levitation without seeing anything unusual about them.  Now, like a child raised in the wilderness by wolves, he must learn how to be human... and at the same time, teach his new friends how to think like a Martian.  He discovers the joys of sex and free love (which is part of what made this book so popular with the '60s generation) and tries to reconcile the many conflicting teachings of Earthly religions with his Martian knowledge.  The reader not only watches Smith's growth, but also gets a tour of a futuristic Earth and all the foibles of human society.</inquest>
+  </book>
+  <book>
+    <rank>78</rank>
+    <title>The Mote in God's Eye</title>
+    <author>
+      <fname>Larry</fname>
+      <lname>Niven</lname>
+    </author>
+    <author>
+      <fname>Jerry</fname>
+      <lname>Pournelle</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>It's 3017 AD.  Humanity discovers intelligent aliens in a backwater region of space:  Should we embrace them or bomb 'em to bits?</inquest>
+  </book>
+  <book>
+    <rank>77</rank>
+    <title>Something Wicked This Way Comes</title>
+    <author>
+      <fname>Ray</fname>
+      <lname>Bradbury</lname>
+    </author>
+    <read>No</read>
+    <inquest>Perhaps the subtlest horror story ever written.  The Carnival promises to fulfill your greatest wish, but charges the highest price for it.  The images from this book will haunt you for life.</inquest>
+  </book>
+  <book>
+    <rank>76</rank>
+    <title>Lensman</title>
+    <author>
+      <fname>E.E. "Doc"</fname>
+      <lname>Smith</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Clasic space opera with pure-as-Boy-Scout heroes and unrelentingly evil bad guys fighting for control of planet-squishing "doomsday devices."</inquest>
+    <series>
+      <name>Triplanetary</name>
+      <name>First Lensman</name>
+      <name>Galactic Patrol</name>
+      <name>Gray Lensman</name>
+      <name>Second Stage Lensmen</name>
+      <name>Children of the Lens</name>
+    </series>
+  </book>
+  <book>
+    <rank>75</rank>
+    <title>Dragonlance</title>
+    <author>
+      <fname>Margaret</fname>
+      <lname>Weis</lname>
+    </author>
+    <author>
+      <fname>Tracy</fname>
+      <lname>Hickman</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The creatures of legend, dragons, have returned--and brought darkness and destruction with them.  Only one band of adventurers can save the world... if they're not betrayed from within.</inquest>
+    <series>
+      <name>Dragons of Autumn Twilight</name>
+      <name>Dragons of Winter Night</name>
+      <name>Dragons of Spring Dawning</name>
+      <name>Dragons of Time of the Twins</name>
+      <name>Dragons of War of the Twins</name>
+      <name>Dragons of Test of the Twins</name>
+    </series>
+  </book>
+  <book>
+    <rank>74</rank>
+    <title>Dying Inside</title>
+    <author>
+      <fname>Robert</fname>
+      <lname>Silverberg</lname>
+    </author>
+    <read>No</read>
+    <inquest>An aging telepath starts to lose the grip on his mental powers.  A fascinating journey into the mind of an average man granted unusual powers.</inquest>
+  </book>
+  <book>
+    <rank>73</rank>
+    <title>20,000 Leagues Under the Sea</title>
+    <author>
+      <fname>Jules</fname>
+      <lname>Verne</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Captain Nemo's exploration of the oceans and battle for their control.  Verne's <i>Nautilus</i> predates real submarines.	</inquest>
+  </book>
+  <book>
+    <rank>72</rank>
+    <title>A Fine and Private Place</title>
+    <author>
+      <fname>Peter S.</fname>
+      <lname>Beagle</lname>
+    </author>
+    <read>No</read>
+    <inquest>A timless and classic romance between two ghosts who must fight to remember what life and love once were.</inquest>
+  </book>
+  <book>
+    <rank>71</rank>
+    <title>West of Eden</title>
+    <author>
+      <fname>Harry</fname>
+      <lname>Harrison</lname>
+    </author>
+    <read>No</read>
+    <inquest>The Earth is ruled by intelligent dinosaurs; they discover America by tool-using, Stone Age men.  Bloody fights ensue.</inquest>
+  </book>
+  <book>
+    <rank>70</rank>
+    <title>Dark Elf</title>
+    <author>
+      <fname>R.A.</fname>
+      <lname>Salvatore</lname>
+    </author>
+    <read>No</read>
+    <inquest>One of the best series of gaming related fiction introduces Drizzt Do'Urdern, a dark elf (or Drow) born with something no other has or can afford to have: a conscience.  His hometown, the underground city of Menzoberranzan, is a rough place, and his family achieved its position of power by adhering to the city's golden rule: Don't get caught.  As Drizzt comes of age, more and more of life in Menzoberranzan becomes repugnant to him, and he can't perform the evil acts his society requires.  Eventually, he embarrasses his family, and, being a male in a matriarchal society, the penalty for that sort of thing is death.  He has no choice but to escape to the surface world, which doesn't take kindly to dark elves, who have a reputation of being bloodthirsty evildoers.  Drizzt's quest for acceptance in "good" society and escape from his past lead to many more adventures and battles.</inquest>
+    <series>
+      <name>Homeland</name>
+      <name>Exile</name>
+      <name>Sojourn</name>
+      <name>The Legacy</name>
+      <name>Siege of Darkness</name>
+      <name>Starless Night</name>
+    </series>
+  </book>
+  <book>
+    <rank>69</rank>
+    <title>The Martian Chronicles</title>
+    <author>
+      <fname>Ray</fname>
+      <lname>Bradbury</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A collection of short stories focusing on humanity's encounters with the Red Planet and its eerie inhabitants.  It starts with first contact and moves on from there.  Every story's got a trademark Bradbury twist.</inquest>
+  </book>
+  <book>
+    <rank>68</rank>
+    <title>Adventures of the Stainless Steel Rat</title>
+    <author>
+      <fname>Harry</fname>
+      <lname>Harrison</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Jim diGriz is the most brilliant con artist and thief in the galaxy.  When he's finally captured, the law enforcement only has one choice--make him one of their own--for it takes a rat to catch one.</inquest>
+  </book>
+  <book>
+    <rank>67</rank>
+    <title>A Connecticut Yankee in King Arthur's Court</title>
+    <author>
+      <fname>Mark</fname>
+      <lname>Twain</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A 19th century man is transported back to the Round Table where he becomes Arthur's second in command by introducing a number of modern tools like railroads and telephones.</inquest>
+  </book>
+  <book>
+    <rank>66</rank>
+    <title>The Gap</title>
+    <author>
+      <fname>Stephen R.</fname>
+      <lname>Donaldson</lname>
+    </author>
+    <read>No</read>
+    <inquest>From beyond the boundaries of Forbidden Space, the Amnion, an alien race capable of horrific atrocities, want something unspeakable from humanity--and they'll go to unthinkable lengths to get it..</inquest>
+    <series>
+      <name>The Real Story</name>
+      <name>Forbidden Knowledge</name>
+      <name>A Dark and Hungry God Arises</name>
+      <name>Chaos and Order</name>
+      <name>This Day All Gods Die</name>
+    </series>
+  </book>
+  <book>
+    <rank>65</rank>
+    <title>A Spell for Chameleon</title>
+    <author>
+      <fname>Piers</fname>
+      <lname>Anthony</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>In Xanth, everyone has a special magic power unique to themselves.  Unfortunately, Bink is born without one.  Or is he?</inquest>
+  </book>
+  <book>
+    <rank>64</rank>
+    <title>Midnight at the Well of Souls</title>
+    <author>
+      <fname>Jack L.</fname>
+      <lname>Chalker</lname>
+    </author>
+    <read>No</read>
+    <inquest>Most of the universe was actually built by an ancient dead race and is maintained by one massive computer.  Whoever controls the computer has ultimate power.</inquest>
+  </book>
+  <book>
+    <rank>63</rank>
+    <title>Mars</title>
+    <author>
+      <fname>Kim Stanley</fname>
+      <lname>Robinson</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>In the year 2026, a group of 100 explorers sets out to colonize and terraform Mars.  Except, not everyone wants it that way.</inquest>
+    <series>
+      <name>Red Mars</name>
+      <name>Green Mars</name>
+      <name>Blue Mars</name>
+    </series>
+  </book>
+  <book>
+    <rank>62</rank>
+    <title>Conan</title>
+    <author>
+      <fname>Robert E.</fname>
+      <lname>Howard</lname>
+    </author>
+    <read>No</read>
+    <inquest>The ultimate barbarian hero kicks the crap out of a cornucopia of evil sorcerors, trashes a legion of demonic monstrosities, and rescues every beautiful princess on the planet.  Then he eats breakfast.</inquest>
+  </book>
+  <book>
+    <rank>61</rank>
+    <title>A Fire Upon the Deep</title>
+    <author>
+      <fname>Vernor</fname>
+      <lname>Vinge</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A god-like artificial intelligence from another universe threatens this universe.  One group has the knowledge to stop it, but they're trapped on a primitive planet without the technological means for space travel or communication.</inquest>
+  </book>
+  <book>
+    <rank>60</rank>
+    <title>Xenogenesis</title>
+    <author>
+      <fname>Octavia</fname>
+      <lname>Butler</lname>
+    </author>
+    <read>No</read>
+    <inquest>The Oankali aliens have saved the Earth.  For a price.  Oankali survival requires constant genetic exchange... and we are their mating stock.</inquest>
+    <series>
+      <name>Dawn</name>
+      <name>Adulthood Rites</name>
+      <name>Imago</name>
+    </series>
+  </book>
+  <book>
+    <rank>59</rank>
+    <title>2001</title>
+    <author>
+      <fname>Arthur C.</fname>
+      <lname>Clarke</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>How did we get to be what we are?  This series answers that one fundamentally human question.  It begins with the establishment of a connection between our ape-ancestors, struggling to merely survive.  We are hopelessly outnumbered by the other animals of the planet.  An outside force plants the seeds of real intelligence by way of a great black "monolith."  These first conceptual thoughts launch us towards a chain of events into the future.  As the future unfolds, our curiosity leads to the discovery of another such box on the moon--proof positive that we are not the only intelligent force in the universe!  It is a discovery that is as impossible for us to understand as our survival problem was millennia ago.  Still, humanity presses on, only to discover another box near Jupiter, which brings even more events crucial to humanity.  In 3001: The Final Odyssey, many of the questions are--for good or ill--finally answered.</inquest>
+    <series>
+      <name>2001</name>
+      <name>2010</name>
+      <name>2061</name>
+      <name>3001</name>
+    </series>
+  </book>
+  <book>
+    <rank>58</rank>
+    <title>Earthsea</title>
+    <author>
+      <fname>Ursula K.</fname>
+      <lname>Le Guin</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A misfit boy named Ged studies to become a wizard and eventually is called to help reestablish the balance of the universe: between light and dark, male and female, life and death, magic and its ultimate price.</inquest>
+    <series>
+      <name>A Wizard of Earthsea</name>
+      <name>The Tombs of Atuan</name>
+      <name>The Farthest Shore</name>
+      <name>Tehanu</name>
+    </series>
+  </book>
+  <book>
+    <rank>57</rank>
+    <title>Fionavar</title>
+    <author>
+      <fname>Guy Gavriel</fname>
+      <lname>Kay</lname>
+    </author>
+    <read>No</read>
+    <inquest>A group of modern-day students is mysteriously transported to a fantasy world in peril.  When a malevolent deity is released from 1,000 years of imprisonment, the students discover that their fates are intertwined with those of Fionavar.</inquest>
+    <series>
+      <name>The Summer Tree</name>
+      <name>The Wandering Fire</name>
+      <name>The Darkest Road</name>
+    </series>
+  </book>
+  <book>
+    <rank>56</rank>
+    <title>Good Omens</title>
+    <author>
+      <fname>Neil</fname>
+      <lname>Gaiman</lname>
+    </author>
+    <author>
+      <fname>Terry</fname>
+      <lname>Pratchett</lname>
+    </author>
+    <read>No</read>
+    <inquest>In this bizarre, end of the world comedy, Armageddon has come, except the angels and devils aren't ready for it.</inquest>
+  </book>
+  <book>
+    <rank>55</rank>
+    <title>Slaughterhouse Five</title>
+    <author>
+      <fname>Kurt</fname>
+      <lname>Vonnegut</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The horrors of war are examined as one man shifts back and forth between existences, from experiences in WWII Dresden to captivity on the alien planet Trallamadore.</inquest>
+  </book>
+  <book>
+    <rank>54</rank>
+    <title>Pern</title>
+    <author>
+      <fname>Anne</fname>
+      <lname>McCaffery</lname>
+    </author>
+    <read>No</read>
+    <inquest>Human riders link minds with benevolent, airplain-sized dragons to fight off the all-devouring Thread.</inquest>
+    <series>
+      <name>Dragonflight</name>
+      <name>Dragonquest</name>
+      <name>Dragonsong</name>
+      <name>Dragonsinger</name>
+      <name>The White Dragon</name>
+      <name>Dragondrums</name>
+      <name>Moreta: Dragonlady of Pern</name>
+      <name>Nerilka's Story</name>
+      <name>Dragonsdawn</name>
+      <name>The Renegades of Pern</name>
+      <name>All the Weyrs of Pern</name>
+      <name>The Chronicles of Pern: First Fall</name>
+      <name>The Dolphins of Pern</name>
+      <name>Dragonseye</name>
+      <name>The Masterharper of Pern</name>
+      <name>The Skies of Pern</name>
+      <name>A Gift of Dragons</name>
+      <name>Dragon's Kin</name>
+      <name>Dragonsblood</name>
+    </series>
+  </book>
+  <book>
+    <rank>53</rank>
+    <title>Timescape</title>
+    <author>
+      <fname>Gregory</fname>
+      <lname>Benford</lname>
+    </author>
+    <read>No</read>
+    <inquest>Near future scientists send messages back in time to 1962 to save the planet.</inquest>
+  </book>
+  <book>
+    <rank>52</rank>
+    <title>A Clockwork Orange</title>
+    <author>
+      <fname>Anthony</fname>
+      <lname>Burgess</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>When ultraviolent Alex gets caught, he undergoes treatment to have his antisocial urges artificially controlled.  Is a person capable of goodness without free will?</inquest>
+  </book>
+  <book>
+    <rank>51</rank>
+    <title>It</title>
+    <author>
+      <fname>Stephen</fname>
+      <lname>King</lname>
+    </author>
+    <read>No</read>
+    <inquest>A creature which preys upon the weak, the vulnerable, the abandoned.  A creature which becomes your worst nightmare.</inquest>
+  </book>
+  <book>
+    <rank>50</rank>
+    <title>Wheel of Time</title>
+    <author>
+      <fname>Robert</fname>
+      <lname>Jordan</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>One age dies, another age unfolds, and the web of fate shapes events as each cycle reincarnates old heroes and villains in new flesh.  Imprisoned throughout the chaging of the years is the Dark One, fastened by magic in his mountain prison, Shayol Ghul.  He yearns to escape and break all that has escaped his grasp, while his minions scour the land subverting, manipulating and otherwise enforcing his dark will.</inquest>
+    <series>
+      <name>The Eye of the World</name>
+      <name>The Great Hunt</name>
+      <name>The Dragon Reborn</name>
+      <name>The Shadow Rising</name>
+      <name>The Fires of Heaven</name>
+      <name>Lord of Chaos</name>
+      <name>A Crown of Swords</name>
+      <name>The Path of Daggers</name>
+      <name>Winter's Heart</name>
+      <name>Crossroads of Twilight</name>
+    </series>
+  </book>
+  <book>
+    <rank>49</rank>
+    <title>The Princess Bride</title>
+    <author>
+      <fname>William</fname>
+      <lname>Goldman</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A swashbuckling tale of romance and adventure... plus Rats of Unusual Size.</inquest>
+  </book>
+  <book>
+    <rank>48</rank>
+    <title>Animal Farm</title>
+    <author>
+      <fname>George</fname>
+      <lname>Orwell</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Mutinous farm animals run off their opressor to establish a livestock utopia.</inquest>
+  </book>
+  <book>
+    <rank>47</rank>
+    <title>Mythago Wood</title>
+    <author>
+      <fname>Robert</fname>
+      <lname>Holdstock</lname>
+    </author>
+    <read>No</read>
+    <inquest>Celtic and Old English myths come alive in a stretch of primeval woodland that generates living "ghosts" from people's unconscious minds.</inquest>
+  </book>
+  <book>
+    <rank>46</rank>
+    <title>War of the Worlds</title>
+    <author>
+      <fname>H.G.</fname>
+      <lname>Wells</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The classic alien invasion tale of technologically advanced Martian conquerors with an enourmous Achilles' Heel.</inquest>
+  </book>
+  <book>
+    <rank>45</rank>
+    <title>The Wizard of Oz</title>
+    <author>
+      <fname>L. Frank</fname>
+      <lname>Baum</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Dorothy seeks to return home while exploring a fantasy world with her companions.  This is first in a series of Oz books, containing much more material than the classic film such as an encounter with the monstruos Hammerheads and the origin of the Tin Man.  Alas, no winged monkeys, though.</inquest>
+  </book>
+  <book>
+    <rank>44</rank>
+    <title>Emphyrio</title>
+    <author>
+      <fname>Jack</fname>
+      <lname>Vance</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>On the planet Halma, the ruling Lords have made mechanization adn mass production illegal to keep workers poor by limiting their output.  Ghyl Tarvoke, the son of a master woodcarver, works to overthrow the traditional system and earn fair treatment for the working class.</inquest>
+  </book>
+  <book>
+    <rank>43</rank>
+    <title>The Demolished Man</title>
+    <author>
+      <fname>Alfred</fname>
+      <lname>Bester</lname>
+    </author>
+    <read>No</read>
+    <inquest>A thrilling murder/suspense story which answers the question, "How do you commit murder in a 23rd-Century telepathic society?"</inquest>
+  </book>
+  <book>
+    <rank>42</rank>
+    <title>Watchers</title>
+    <author>
+      <fname>Dean</fname>
+      <lname>Koontz</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A genetic experiment creates two super-intelligent beasts.  One, a twisted creature of evil escapes and the only one that can stop him is his "brother"--a domesticated dog named Einstein.</inquest>
+  </book>
+  <book>
+    <rank>41</rank>
+    <title>The Illuminatus Trilogy</title>
+    <author>
+      <fname>Robert</fname>
+      <lname>Shea</lname>
+    </author>
+    <author>
+      <fname>Robert Anton</fname>
+      <lname>Wilson</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The three books of The Illuminatus are only partly works of the imagination.  They tackle all the cover-ups of our time, from who really shot the Kennedys to why there's a pyramid on the one-dollar bill.</inquest>
+  </book>
+  <book>
+    <rank>40</rank>
+    <title>The Chronicles of Narnia</title>
+    <author>
+      <fname>C.S.</fname>
+      <lname>Lewis</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>This series contains The Lion, the Witch, and the Wardrobe, the most famous book of the series, wherein four children step inside a wardrobe in England and emerge into the magical land of Narnia, a land complete with fauns and talking beavers, a land under the rule and spell of eternal winter by the White Witch.</inquest>
+    <series>
+      <name>The Magician's Nephew</name>
+      <name>The Lion, the Witch, and the Wardrobe</name>
+      <name>The Horse and His Boy</name>
+      <name>Prince Caspian</name>
+      <name>The Voyage of the Dawn Treader</name>
+      <name>The Silver Chair</name>
+      <name>The Last Battle</name>
+    </series>
+  </book>
+  <book>
+    <rank>39</rank>
+    <title>Starship Troopers</title>
+    <author>
+      <fname>Robert A.</fname>
+      <lname>Heinlein</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A recruit of the future goes through the toughest boot camp in the universe--and into battle against humanity's deadliest enemy.  Forget the movie, read the book.</inquest>
+  </book>
+  <book>
+    <rank>38</rank>
+    <title>Interview with the Vampire</title>
+    <author>
+      <fname>Anne</fname>
+      <lname>Rice</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The novel that took the gothic mystique of the vampire into the nights of modern San Francisco.</inquest>
+  </book>
+  <book>
+    <rank>37</rank>
+    <title>The Green Mile</title>
+    <author>
+      <fname>Stephen</fname>
+      <lname>King</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The eerie struggle of death row inmates as they face the electric chair.</inquest>
+  </book>
+  <book>
+    <rank>36</rank>
+    <title>Blood Music</title>
+    <author>
+      <fname>Greg</fname>
+      <lname>Bear</lname>
+    </author>
+    <read>No</read>
+    <inquest>A nerdy researcher develops biochips--intelligent cells--and injects them into himself.  They spread like a disease, with apocalyptic results.</inquest>
+  </book>
+  <book>
+    <rank>35</rank>
+    <title>Mindkiller</title>
+    <author>
+      <fname>Spider</fname>
+      <lname>Robinson</lname>
+    </author>
+    <read>No</read>
+    <inquest>What do you do when you find someone can erace minds?  Mindkiller (the first novella in Deathkiller) traces the paths of two men as mysteries in their lives irrevocably draw them to converge on one enigmatic organization--a corporation that is responsible for creating technology that lets people die from pure pleasure.  It also has the first permanent means of brainwashing a person.  The protagonists decide to try to shut down this cartel, even though they know it will certainly mean their doom.  This book reads like a mystery-thriller the first time thruogh, and offers rich characterization on a second reading, and underneath it all, it asks: What makes life worth living?</inquest>
+  </book>
+  <book>
+    <rank>34</rank>
+    <title>Gulliver's Travels</title>
+    <author>
+      <fname>Jonathan</fname>
+      <lname>Swift</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A shipwreck survivor encounters miniature people, giants, and superintelligent talking horses among other things in a series of political satires.</inquest>
+  </book>
+  <book>
+    <rank>33</rank>
+    <title>The Book of the New Sun</title>
+    <author>
+      <fname>Gene</fname>
+      <lname>Wolfe</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>How many series have a torturer as the main character?  Follow along as a young apprentice torturer graduates to mass executioner, savior of humanity, and finally a ghost.</inquest>
+    <series>
+      <name>The Shadow of the Torturer</name>
+      <name>The Claw of the Conciliator</name>
+      <name>The Sword of the Lictor</name>
+      <name>The Citadel of the Autarch</name>
+      <name>The Urth of the New Sun</name>
+    </series>
+  </book>
+  <book>
+    <rank>32</rank>
+    <title>Helleconia</title>
+    <author>
+      <fname>Brian</fname>
+      <lname>Adliss</lname>
+    </author>
+    <read>No</read>
+    <inquest>Civilizations rise and fall on a planet where their year equals 3,000 of our years and winter's like an ice age.</inquest>
+    <series>
+      <name>Helleconia Spring</name>
+      <name>Helleconia Summer</name>
+      <name>Helleconia Winter</name>
+    </series>
+  </book>
+  <book>
+    <rank>31</rank>
+    <title>The Hobbit</title>
+    <author>
+      <fname>J.R.R.</fname>
+      <lname>Tolkien</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The hobbit Bilbo Baggins, the wizard Gandalf, and 13 dwarves embark on a quest to retake the dwarven treasure in the Lonely Mountain.  Trolls, goblins, giant spiders, and the infamous dragon, Smaug, stand in their way.</inquest>
+  </book>
+  <book>
+    <rank>30</rank>
+    <title>Farenheit 451</title>
+    <author>
+      <fname>Ray</fname>
+      <lname>Bradbury</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Firemen in the world of Guy Montag don't read books; they burn them.  And Guy enjoys his job.  Ten years as a fireman, he never questions the reasons behind book-burning or the pleasure it gives him... until a 17 year-old girl shares a past with him when people were not afraid to read.  Guy becomes someone he had once loathed, a book lover, a person who chooses to reject the laws of organized society and indulge in the sins of the written word.  He falls from grace to become the quarry he once hunted, his desire for destruction replaced by a desire for knowledge.</inquest>
+  </book>
+  <book>
+    <rank>29</rank>
+    <title>Watership Down</title>
+    <author>
+      <fname>Richard</fname>
+      <lname>Adams</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The search for a new home and struggle for survival, all from a rabbit's point of view.  A unique take on the biblical story of Exodus.</inquest>
+  </book>
+  <book>
+    <rank>28</rank>
+    <title>The Moon is a Harsh Mistress</title>
+    <author>
+      <fname>Robert A.</fname>
+      <lname>Heinlein</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The moon is a penal colony ruled by an iron-fisted administration.  The citizens want freedom and turn to a self-aware computer for rebellion plans.</inquest>
+  </book>
+  <book>
+    <rank>27</rank>
+    <title>I, Robot</title>
+    <author>
+      <fname>Isaac</fname>
+      <lname>Asimov</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Short stories that set the standard for intelligent robots in science fiction.  Most famous for setting down the Three Laws of Robotics now taken for granted.</inquest>
+  </book>
+  <book>
+    <rank>26</rank>
+    <title>Le Morte d'Arthur</title>
+    <author>
+      <fname>Sir Thomas</fname>
+      <lname>Malory</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The definitive collection of Arthurian tales--from Lancelot's betrayal to the burth of Mordred to invisible knights.</inquest>
+  </book>
+  <book>
+    <rank>25</rank>
+    <title>The Stand</title>
+    <author>
+      <fname>Stephen</fname>
+      <lname>King</lname>
+    </author>
+    <read>No</read>
+    <inquest>A virus wipes out most of the world's population.  While pockets of people fight to restore civilization, a demonic power threatens the remnants of America.  Read the original, edited version.</inquest>
+  </book>
+  <book>
+    <rank>24</rank>
+    <title>The Hitchhiker's Guide to the Galaxy</title>
+    <author>
+      <fname>Douglas</fname>
+      <lname>Adams</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The book that kicked off the five-book trilogy.  Arthur Dent is rescued just before the Earth is demolished for a galactic freeway.  He and his companion Ford Prefect encounter a depressed robot, visit the world where sofas come from, and brave the dangers of Vogon poetry.</inquest>
+  </book>
+  <book>
+    <rank>23</rank>
+    <title>A Princess of Mars</title>
+    <author>
+      <fname>Edgar Rice</fname>
+      <lname>Burroughs</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>In the first book of the "John Carter" series, a Confederate soldier finds himself transported to Mars where he wins acclaim as a warrior.</inquest>
+  </book>
+  <book>
+    <rank>22</rank>
+    <title>Fafhrd and the Gray Mouser</title>
+    <author>
+      <fname>Fritz</fname>
+      <lname>Lieber</lname>
+    </author>
+    <read>No</read>
+    <inquest>A barbarian and master thief band together and bungle their way through encounters with assassin guilds, deadly sorcerers, and scheming gods.</inquest>
+    <series>
+      <name>Swords and Deviltry</name>
+      <name>Swords Against Death</name>
+      <name>Swords in the Mist</name>
+      <name>Swords against Wizardry</name>
+      <name>Swords of Lankhmar</name>
+      <name>Swords and Ice Magic</name>
+      <name>The Knight and Knave of Swords</name>
+    </series>
+  </book>
+  <book>
+    <rank>21</rank>
+    <title>The Time Machine</title>
+    <author>
+      <fname>H.G.</fname>
+      <lname>Wells</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A time-traveller explores a conflict in the year 802,701 AD between the meek and beautiful Eloi and the underground-dwelling, ruthless Morlocks.</inquest>
+  </book>
+  <book>
+    <rank>20</rank>
+    <title>Ringworld</title>
+    <author>
+      <fname>Larry</fname>
+      <lname>Niven</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A space expedition crashes on an artificial planet shaped like a giant hula hooop 190 million miles in diameter.  The survivors must fight the barbarian descendants of the original builders as they adventure across the ring in search of answers.</inquest>
+  </book>
+  <book>
+    <rank>19</rank>
+    <title>The Uplift Trilogy</title>
+    <author>
+      <fname>David</fname>
+      <lname>Brin</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The other races across the galaxy--including dophins and chimps--gained intelligence by genetic modification or "uplift" and can trace their heritage to their benefactors.  Mankind cannot, leaving them at the bottom of the universal totem pole against technologically superior and often hostile alien races.</inquest>
+    <series>
+      <name>Sundiver</name>
+      <name>Startide Rising</name>
+      <name>The Uplift War</name>
+    </series>
+  </book>
+  <book>
+    <rank>18</rank>
+    <title>Lightning</title>
+    <author>
+      <fname>Dean</fname>
+      <lname>Koontz</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A time traveller from the past seeks to avert Nazi Germany's alterations of the present.</inquest>
+  </book>
+  <book>
+    <rank>17</rank>
+    <title>The Anubis Gates</title>
+    <author>
+      <fname>Tim</fname>
+      <lname>Powers</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A modern scholar gets caught up in time travel, body-swapping, swashbuckling, and sorcery in London, circa 1810.  Think Charles Dickens meets Indiana Jones.</inquest>
+  </book>
+  <book>
+    <rank>16</rank>
+    <title>The Sword of Shannara</title>
+    <author>
+      <fname>Terry</fname>
+      <lname>Brooks</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The first book of the "Shannara" series pits Shea Ohmsford against the evil Warlock Lord and his Skull Bearer minions.  This book was pivotal in popularizing modern fantasy.</inquest>
+  </book>
+  <book>
+    <rank>15</rank>
+    <title>Do Androids Dream of Electric Sheep?</title>
+    <author>
+      <fname>Philip K.</fname>
+      <lname>Dick</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A Bladerunner policeman is assigned to hunt down androids posing as human and questions the definition of "humanity" in the process.</inquest>
+  </book>
+  <book>
+    <rank>14</rank>
+    <title>Frankenstein</title>
+    <author>
+      <fname>Mary</fname>
+      <lname>Shelley</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The classic tale of a mad scientist's creation, a monster pieced together from graveyard parts, and the monster's struggle to have the world recognize his humanity.</inquest>
+  </book>
+  <book>
+    <rank>13</rank>
+    <title>Tigana</title>
+    <author>
+      <fname>Guy Gavriel</fname>
+      <lname>Kay</lname>
+    </author>
+    <read>No</read>
+    <inquest>In an act of revenge, a powerful sorcerer erases the kingdom of Tigana from existence.  But a small band of heroes clings to the memory of their homeland and quests to restore Tigana once again to its rightful place.</inquest>
+  </book>
+  <book>
+    <rank>12</rank>
+    <title>The Stars My Destination</title>
+    <author>
+      <fname>Alfred</fname>
+      <lname>Bester</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>When Gully Foyle gets screwed over and vows revenge, he transforms himself into an all-powerful quasi-Superman with the power to change the universe.</inquest>
+  </book>
+  <book>
+    <rank>11</rank>
+    <title>Hyperion</title>
+    <author>
+      <fname>Dan</fname>
+      <lname>Simmons</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The Shrike:  the ultimate killing machine that can stop time with a thought.  The Hegemony/AI Consortium alliance: an empire that dominates an entire galaxy.  The Ousters: eon-long mutated humanoids bent on overthrowing the Hegemony.  Add them up and you've got Armageddon.</inquest>
+    <series>
+      <name>Hyperion</name>
+      <name>Fall of Hyperion</name>
+      <name>Endymion</name>
+      <name>Rise of Endymion</name>
+    </series>
+  </book>
+  <book>
+    <rank>10</rank>
+    <title>1984</title>
+    <author>
+      <fname>George</fname>
+      <lname>Orwell</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The Ministry of Truth says that you will enjoy this book.  It's the only book you can read; there are no others available.  You will two hours after dinner every day reading this book; the telescreens ensure this.  Big Brother is your friend.</inquest>
+  </book>
+  <book>
+    <rank>9</rank>
+    <title>The Man in the High Castle</title>
+    <author>
+      <fname>Philip K.</fname>
+      <lname>Dick</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Full of paranoia and sophisticated reality games, this "what if Nazi Germany had won" storyline is the best alternate history ever written.</inquest>
+  </book>
+  <book>
+    <rank>8</rank>
+    <title>Elric of Melniboné</title>
+    <author>
+      <fname>Michael</fname>
+      <lname>Moorcock</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>An albino warrior/sorceror from a dying race seeks out a soul-sucking sword and gets caught up in the ultimate battle between Order and Chaos.</inquest>
+    <series>
+      <name>Elric of Melniboné</name>
+      <name>Sailor on the Seas of Fate</name>
+      <name>The Weird of the White Wolf</name>
+      <name>The Vanishing Tower</name>
+      <name>The Revenge of the Rose</name>
+      <name>The Bane of the Black Sword</name>
+      <name>Stormbringer</name>
+    </series>
+  </book>
+  <book>
+    <rank>7</rank>
+    <title>Dune</title>
+    <author>
+      <fname>Frank</fname>
+      <lname>Herbert</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>The first book in the "Dune" series tracks one of the most powerful psychics in the universe, Paul Atreides, as he learns to deal with the political machinations and environmental savagery of the desert planet Arrakis while balancing his growing powers.</inquest>
+  </book>
+  <book>
+    <rank>6</rank>
+    <title>Foundation</title>
+    <author>
+      <fname>Isaac</fname>
+      <lname>Asimov</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A monumental tale of a galactic empire spiraling into decline and the secret society of scientists maneuvering to control the damage.  The story begins on the capital planet of an empire that has stood for millenia.  And just one person, mathematics professor Hari Seldon, knows what's going to happen.  Seldon has discovered a new science--psychohistory--that allows him to predict and control the future.  Psychohistory proves that the fall of the empire can't be stopped, but actions can be taken to shorten the coming gloom and lay the foundation for a Second Empire.  Gripping throughout, it doesn't rely on violence to further the plot for as the character Salvor Hardin says, "Violence is the last refuge of the incompetent."</inquest>
+  </book>
+  <book>
+    <rank>5</rank>
+    <title>The Chronicles of Thomas Covenant the Unbeliever</title>
+    <author>
+      <fname>Stephen R.</fname>
+      <lname>Donaldson</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A real-world leper, Thomas Covenant, gets transported to a fantasy world besieged by a corrupt and malevolent force.  Only Covenant can save the world with the "wild magic" he brought with him, but he doesn't believe this fantasy world exists.</inquest>
+    <series>
+      <name>Lord Foul's Bane</name>
+      <name>The Illearth War</name>
+      <name>The Power that Preserves</name>
+      <name>The Wounded Land</name>
+      <name>The One Tree</name>
+      <name>White Gold Wielder</name>
+    </series>
+  </book>
+  <book>
+    <rank>4</rank>
+    <title>Neuromancer</title>
+    <author>
+      <fname>William</fname>
+      <lname>Gibson</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>A down-on-his-luck hacker and a sleek razor-nailed mercenary discover the secrets of a newborn AI.  Cyberpunk's first defining work and the first of Gibson's Sprawl books.</inquest>
+  </book>
+  <book>
+    <rank>3</rank>
+    <title>Ender</title>
+    <author>
+      <fname>Orson Scott</fname>
+      <lname>Card</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>By age 8, Ender Wiggins becomes Earth's greatest military genius.  Confronted with the realities of war, Ender chooses to abandon the military and become a "speaker for the dead," a councilor, truthseeker, and arbitrator between families in need of guidance.  Unfortunately, the universe has other plans for him.</inquest>
+    <series>
+      <name>Ender's Game</name>
+      <name>Speaker for the Dead</name>
+      <name>Xenocide</name>
+      <name>Children of the Mind</name>
+    </series>
+  </book>
+  <book>
+    <rank>2</rank>
+    <title>The Chronicles of Amber</title>
+    <author>
+      <fname>Roger</fname>
+      <lname>Zelazny</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>Amber is the one true world.  All others, including Earth, are merely shadows.  Prince Corwin, rightful successor to the Amber throne, must master these alternate realities, fight demonic assassins, and survive the ruthless schemes of his own family to gain the crown.</inquest>
+    <series>
+      <name>Nine Princes in Amber</name>
+      <name>The Guns of Avalon</name>
+      <name>Sign of the Unicorn</name>
+      <name>The Hand of Oberon</name>
+      <name>The Courts of Chaos</name>
+    </series>
+  </book>
+  <book>
+    <rank>1</rank>
+    <title>The Lord of the Rings</title>
+    <author>
+      <fname>J.R.R.</fname>
+      <lname>Tolkien</lname>
+    </author>
+    <read>Yes</read>
+    <inquest>It's the best.</inquest>
+    <series>
+      <name>The Fellowship of the Ring</name>
+      <name>The Two Towers</name>
+      <name>The Return of the King</name>
+    </series>
+  </book>
+</booklist>
