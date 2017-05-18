@@ -1,0 +1,1278 @@
+{
+  "booklist": {
+    "book": [
+      {
+        "rank": "100",
+        "title": "The Postman",
+        "author": {
+          "fname": "David",
+          "lname": "Brin"
+        },
+        "read": "No",
+        "inquest": "You've seen the movie about one man standing up for his ideals in post-apocalypse America. Now read the book. It's better."
+      },
+      {
+        "rank": "99",
+        "title": "Carrion Comfort",
+        "author": {
+          "fname": "Dan",
+          "lname": "Simmons"
+        },
+        "read": "No",
+        "inquest": "A secret society of psychic vampires feed off others' misery and play games with human minds."
+      },
+      {
+        "rank": "98",
+        "title": "Through the Looking Glass",
+        "author": {
+          "fname": "Lewis",
+          "lname": "Carroll"
+        },
+        "read": "Yes",
+        "inquest": "In the novel that follows <i>Alice in Wonderland</i>, young Alice seeks to return home while exploring a mad, enchanted land and dodging those who seek to do her harm."
+      },
+      {
+        "rank": "97",
+        "title": "The High Crusade",
+        "author": {
+          "fname": "Poul",
+          "lname": "Anderson"
+        },
+        "read": "No",
+        "inquest": "Dark Age knights commandeer a space craft and conquer the galaxy, converting aliens to Christianity along the way."
+      },
+      {
+        "rank": "96",
+        "title": "Snow Crash",
+        "author": {
+          "fname": "Neal",
+          "lname": "Stephenson"
+        },
+        "read": "Yes",
+        "inquest": "The first cyberpunk novel to feature a Matrix with personality and the first hints of virtual reality. Plus, you've gotta love a main character named Hiro Protagonist who's a hacker, samurai-swordsman and pizza-delivery guy for The Mob."
+      },
+      {
+        "rank": "95",
+        "title": "The Kraken Wastes",
+        "author": {
+          "fname": "John",
+          "lname": "Wydham"
+        },
+        "read": "No",
+        "inquest": "An unusual \"invasion from below\" premise with a couple similar to Paul and Jamie from \"Mad About You\" fulfilling the lead roles."
+      },
+      {
+        "rank": "94",
+        "title": "Way Station",
+        "author": {
+          "fname": "Clifford",
+          "lname": "Simak"
+        },
+        "read": "No",
+        "inquest": "An Earthling is employed by an intergalactic federation to watch over a Way Station they secretly set up on Earth. Can he balance the loyalties to his race and to his employers to prevent an atomic war?"
+      },
+      {
+        "rank": "93",
+        "title": "Swords",
+        "author": {
+          "fname": "Fred",
+          "lname": "Saberhagen"
+        },
+        "read": "No",
+        "inquest": "The god Vulcan crafts magical blades, each with a specific unstoppable power, and unleashes them upon an unsuspecting world. First, humanity uses the swords to kill the gods. After that, things get violent.",
+        "series": {
+          "name": [
+            "The First Book of Swords",
+            "The Second Book of Swords",
+            "The Third Book of Swords",
+            "The First Book of Lost Swords: Woundhealer's Story",
+            "The First Book of Lost Swords: Sightblinder's Story",
+            "The Second Book of Lost Swords: Stonecutter's Story",
+            "The Third Book of Lost Swords: Farslayer's Story",
+            "The Fourth Book of Lost Swords: Coinspinner's Story",
+            "The Fifth Book of Lost Swords: Mindsword's Story",
+            "The Sixth Book of Lost Swords: Wayfinder's Story",
+            "The Last Book of Lost Swords: Shieldbreaker's Story"
+          ]
+        }
+      },
+      {
+        "rank": "92",
+        "title": "The Four Lords of the Diamond",
+        "author": {
+          "fname": "Jack",
+          "lname": "Chalker"
+        },
+        "read": "No",
+        "inquest": "A secret agent has his mind copied into four different bodies to infiltrate four enemy worlds and assassinate their rulers.",
+        "series": {
+          "name": [
+            "Lilith: A Snake in the Grass",
+            "Cerberus: A Wolf in the Fold",
+            "Charon: A Dragon at the Gate",
+            "Medusa: A Tiger by the Tail"
+          ]
+        }
+      },
+      {
+        "rank": "91",
+        "title": "The Songs of Distant Earth",
+        "author": {
+          "fname": "Arthur C.",
+          "lname": "Clarke"
+        },
+        "read": "Yes",
+        "inquest": "Humankind learns that the Sun is going to explode and sends its genetic seed into the universe before the Earth is destroyed. This is hard science fiction with a reasonably viable method of space travel."
+      },
+      {
+        "rank": "90",
+        "title": "Flowers for Algernon",
+        "author": {
+          "fname": "Daniel",
+          "lname": "Keyes"
+        },
+        "read": "Yes",
+        "inquest": "A mentally retarded custodian undergoes a breakthrough surgery that triples his IQ. He's got the mind of a genius, but the emotional maturity of a child."
+      },
+      {
+        "rank": "89",
+        "title": "Downbelow Station",
+        "author": {
+          "fname": "C.J.",
+          "lname": "Cherryh"
+        },
+        "read": "No",
+        "inquest": "Humanity has been exploring space for a few hundred years with sub-light ships, long enough to establish trade routes between orbital stations in a handful of distant solar systems. Downbelow Station is at the crux of the shipping routes, the gateway to Earth's defensive perimeter. Earth authorities worry that the sub-light communication lags--of 10 years or more in some cases--are giving their distant colonies and upstart merchant vessels too much freedum, but when earth finally cracks down, it's already too late: Scientists at distant Cyteen have already built the first faster-than-light spacedrive, and Cyteen has become the center of a new power called Union. Although Downbelow Station has always prided itself on its neutrality, it's now caught between Earth, Union and merchanter forces, fated to become the center of the conflict."
+      },
+      {
+        "rank": "88",
+        "title": "The Silence of the Lambs",
+        "author": {
+          "fname": "Thomas",
+          "lname": "Harris"
+        },
+        "read": "No",
+        "inquest": "An FBI agent must enlist the help of a sadistic serial killer to hunt down another serial killer."
+      },
+      {
+        "rank": "87",
+        "title": "To Your Scattered Bodies Go",
+        "author": {
+          "fname": "Philip José",
+          "lname": "Farmer"
+        },
+        "read": "Yes",
+        "inquest": "Anyone who has ever died--you, me, Hitler, Mark Twain--ends up on a strange alien world. The first book in the \"Riverworld\" series follows the adventures of a lone explorer trying to puzzle out the mysteries of this freakish \"afterlife.\""
+      },
+      {
+        "rank": "86",
+        "title": "The Last Unicorn",
+        "author": {
+          "fname": "Peter S.",
+          "lname": "Beagle"
+        },
+        "read": "Yes",
+        "inquest": "When a unicorn recieves word that all the other unicorns have vanished, she embarks on a quest to find her lost fellows. She is mortal for a brief period and is the only unicorn that has ever loved a human being for more than a short time."
+      },
+      {
+        "rank": "85",
+        "title": "Crystal Express",
+        "author": {
+          "fname": "Bruce",
+          "lname": "Sterling"
+        },
+        "read": "No",
+        "inquest": "Humanity has finally abandoned earth for space and divided into two factions separated by biology as well as phiosophy. The Shaper faction uses genetic and bio-engineering to adapt their bodies to space while the Mechanists believe in creating superior humans using cybernetic enhancements."
+      },
+      {
+        "rank": "84",
+        "title": "Catspaw",
+        "author": {
+          "fname": "Joan",
+          "lname": "Vinge"
+        },
+        "read": "No",
+        "inquest": "Cyberpunk, murder-mystery and political intrigue twist together in this page-turner which tells the story of Cat, a half-human psychic, forced to work as a bodyguard for the people he hates most."
+      },
+      {
+        "rank": "83",
+        "title": "Lyonesse",
+        "author": {
+          "fname": "Jack",
+          "lname": "Vance"
+        },
+        "read": "No",
+        "inquest": "Supernatural novels full of faeries, witches and inter-kingdom intrigue--and it all takes place beneath the English Channel.",
+        "series": {
+          "name": [
+            "Suldren's Garden",
+            "The Green Pearl",
+            "Madouc"
+          ]
+        }
+      },
+      {
+        "rank": "82",
+        "title": "Gun, With Occasional Music",
+        "author": {
+          "fname": "Jonathan",
+          "lname": "Lethem"
+        },
+        "read": "Yes",
+        "inquest": "A private eye gets involved in a murder mystery in a near, dark future populated by leftover humans and animals--like gun-toting kangaroos--genetically enhanced to near-human intelligence. Scathingly dark and very funny."
+      },
+      {
+        "rank": "81",
+        "title": "The Invisible Man",
+        "author": {
+          "fname": "H.G.",
+          "lname": "Wells"
+        },
+        "read": "Yes",
+        "inquest": "A scientist's sanity and morality is the price of his invisibility formula."
+      },
+      {
+        "rank": "80",
+        "title": "Space Trilogy",
+        "author": {
+          "fname": "C.S.",
+          "lname": "Lewis"
+        },
+        "read": "No",
+        "inquest": "A Mars rampant with life. A water-covered Venus populated with floating, living \"islands.\"  And Earth where King Arthur fights corporate Britain.",
+        "series": {
+          "name": [
+            "Out of the Silent Planet",
+            "Perelandra",
+            "That Hideous Strength"
+          ]
+        }
+      },
+      {
+        "rank": "79",
+        "title": "Stranger in a Strange Land",
+        "author": {
+          "fname": "Robert A.",
+          "lname": "Heinlein"
+        },
+        "read": "Yes",
+        "inquest": "The Stranger is Valentine Michael Smith, and the Strange Land is Earth. Smith was born on Mars, the only human survivor of our first expedition there. He was raised by Martians, then \"rescued\" by the second expedition some 25 years later. He thinks of himself as a Martian and uses Martian abilities like levitation without seeing anything unusual about them. Now, like a child raised in the wilderness by wolves, he must learn how to be human... and at the same time, teach his new friends how to think like a Martian. He discovers the joys of sex and free love (which is part of what made this book so popular with the '60s generation) and tries to reconcile the many conflicting teachings of Earthly religions with his Martian knowledge. The reader not only watches Smith's growth, but also gets a tour of a futuristic Earth and all the foibles of human society."
+      },
+      {
+        "rank": "78",
+        "title": "The Mote in God's Eye",
+        "author": [
+          {
+            "fname": "Larry",
+            "lname": "Niven"
+          },
+          {
+            "fname": "Jerry",
+            "lname": "Pournelle"
+          }
+        ],
+        "read": "Yes",
+        "inquest": "It's 3017 AD. Humanity discovers intelligent aliens in a backwater region of space:  Should we embrace them or bomb 'em to bits?"
+      },
+      {
+        "rank": "77",
+        "title": "Something Wicked This Way Comes",
+        "author": {
+          "fname": "Ray",
+          "lname": "Bradbury"
+        },
+        "read": "No",
+        "inquest": "Perhaps the subtlest horror story ever written. The Carnival promises to fulfill your greatest wish, but charges the highest price for it. The images from this book will haunt you for life."
+      },
+      {
+        "rank": "76",
+        "title": "Lensman",
+        "author": {
+          "fname": "E.E. \"Doc\"",
+          "lname": "Smith"
+        },
+        "read": "Yes",
+        "inquest": "Clasic space opera with pure-as-Boy-Scout heroes and unrelentingly evil bad guys fighting for control of planet-squishing \"doomsday devices.\"",
+        "series": {
+          "name": [
+            "Triplanetary",
+            "First Lensman",
+            "Galactic Patrol",
+            "Gray Lensman",
+            "Second Stage Lensmen",
+            "Children of the Lens"
+          ]
+        }
+      },
+      {
+        "rank": "75",
+        "title": "Dragonlance",
+        "author": [
+          {
+            "fname": "Margaret",
+            "lname": "Weis"
+          },
+          {
+            "fname": "Tracy",
+            "lname": "Hickman"
+          }
+        ],
+        "read": "Yes",
+        "inquest": "The creatures of legend, dragons, have returned--and brought darkness and destruction with them. Only one band of adventurers can save the world... if they're not betrayed from within.",
+        "series": {
+          "name": [
+            "Dragons of Autumn Twilight",
+            "Dragons of Winter Night",
+            "Dragons of Spring Dawning",
+            "Dragons of Time of the Twins",
+            "Dragons of War of the Twins",
+            "Dragons of Test of the Twins"
+          ]
+        }
+      },
+      {
+        "rank": "74",
+        "title": "Dying Inside",
+        "author": {
+          "fname": "Robert",
+          "lname": "Silverberg"
+        },
+        "read": "No",
+        "inquest": "An aging telepath starts to lose the grip on his mental powers. A fascinating journey into the mind of an average man granted unusual powers."
+      },
+      {
+        "rank": "73",
+        "title": "20,000 Leagues Under the Sea",
+        "author": {
+          "fname": "Jules",
+          "lname": "Verne"
+        },
+        "read": "Yes",
+        "inquest": "Captain Nemo's exploration of the oceans and battle for their control. Verne's <i>Nautilus</i> predates real submarines.\t"
+      },
+      {
+        "rank": "72",
+        "title": "A Fine and Private Place",
+        "author": {
+          "fname": "Peter S.",
+          "lname": "Beagle"
+        },
+        "read": "No",
+        "inquest": "A timless and classic romance between two ghosts who must fight to remember what life and love once were."
+      },
+      {
+        "rank": "71",
+        "title": "West of Eden",
+        "author": {
+          "fname": "Harry",
+          "lname": "Harrison"
+        },
+        "read": "No",
+        "inquest": "The Earth is ruled by intelligent dinosaurs; they discover America by tool-using, Stone Age men. Bloody fights ensue."
+      },
+      {
+        "rank": "70",
+        "title": "Dark Elf",
+        "author": {
+          "fname": "R.A.",
+          "lname": "Salvatore"
+        },
+        "read": "No",
+        "inquest": "One of the best series of gaming related fiction introduces Drizzt Do'Urdern, a dark elf (or Drow) born with something no other has or can afford to have: a conscience. His hometown, the underground city of Menzoberranzan, is a rough place, and his family achieved its position of power by adhering to the city's golden rule: Don't get caught. As Drizzt comes of age, more and more of life in Menzoberranzan becomes repugnant to him, and he can't perform the evil acts his society requires. Eventually, he embarrasses his family, and, being a male in a matriarchal society, the penalty for that sort of thing is death. He has no choice but to escape to the surface world, which doesn't take kindly to dark elves, who have a reputation of being bloodthirsty evildoers. Drizzt's quest for acceptance in \"good\" society and escape from his past lead to many more adventures and battles.",
+        "series": {
+          "name": [
+            "Homeland",
+            "Exile",
+            "Sojourn",
+            "The Legacy",
+            "Siege of Darkness",
+            "Starless Night"
+          ]
+        }
+      },
+      {
+        "rank": "69",
+        "title": "The Martian Chronicles",
+        "author": {
+          "fname": "Ray",
+          "lname": "Bradbury"
+        },
+        "read": "Yes",
+        "inquest": "A collection of short stories focusing on humanity's encounters with the Red Planet and its eerie inhabitants. It starts with first contact and moves on from there. Every story's got a trademark Bradbury twist."
+      },
+      {
+        "rank": "68",
+        "title": "Adventures of the Stainless Steel Rat",
+        "author": {
+          "fname": "Harry",
+          "lname": "Harrison"
+        },
+        "read": "Yes",
+        "inquest": "Jim diGriz is the most brilliant con artist and thief in the galaxy. When he's finally captured, the law enforcement only has one choice--make him one of their own--for it takes a rat to catch one."
+      },
+      {
+        "rank": "67",
+        "title": "A Connecticut Yankee in King Arthur's Court",
+        "author": {
+          "fname": "Mark",
+          "lname": "Twain"
+        },
+        "read": "Yes",
+        "inquest": "A 19th century man is transported back to the Round Table where he becomes Arthur's second in command by introducing a number of modern tools like railroads and telephones."
+      },
+      {
+        "rank": "66",
+        "title": "The Gap",
+        "author": {
+          "fname": "Stephen R.",
+          "lname": "Donaldson"
+        },
+        "read": "No",
+        "inquest": "From beyond the boundaries of Forbidden Space, the Amnion, an alien race capable of horrific atrocities, want something unspeakable from humanity--and they'll go to unthinkable lengths to get it..",
+        "series": {
+          "name": [
+            "The Real Story",
+            "Forbidden Knowledge",
+            "A Dark and Hungry God Arises",
+            "Chaos and Order",
+            "This Day All Gods Die"
+          ]
+        }
+      },
+      {
+        "rank": "65",
+        "title": "A Spell for Chameleon",
+        "author": {
+          "fname": "Piers",
+          "lname": "Anthony"
+        },
+        "read": "Yes",
+        "inquest": "In Xanth, everyone has a special magic power unique to themselves. Unfortunately, Bink is born without one. Or is he?"
+      },
+      {
+        "rank": "64",
+        "title": "Midnight at the Well of Souls",
+        "author": {
+          "fname": "Jack L.",
+          "lname": "Chalker"
+        },
+        "read": "No",
+        "inquest": "Most of the universe was actually built by an ancient dead race and is maintained by one massive computer. Whoever controls the computer has ultimate power."
+      },
+      {
+        "rank": "63",
+        "title": "Mars",
+        "author": {
+          "fname": "Kim Stanley",
+          "lname": "Robinson"
+        },
+        "read": "Yes",
+        "inquest": "In the year 2026, a group of 100 explorers sets out to colonize and terraform Mars. Except, not everyone wants it that way.",
+        "series": {
+          "name": [
+            "Red Mars",
+            "Green Mars",
+            "Blue Mars"
+          ]
+        }
+      },
+      {
+        "rank": "62",
+        "title": "Conan",
+        "author": {
+          "fname": "Robert E.",
+          "lname": "Howard"
+        },
+        "read": "No",
+        "inquest": "The ultimate barbarian hero kicks the crap out of a cornucopia of evil sorcerors, trashes a legion of demonic monstrosities, and rescues every beautiful princess on the planet. Then he eats breakfast."
+      },
+      {
+        "rank": "61",
+        "title": "A Fire Upon the Deep",
+        "author": {
+          "fname": "Vernor",
+          "lname": "Vinge"
+        },
+        "read": "Yes",
+        "inquest": "A god-like artificial intelligence from another universe threatens this universe. One group has the knowledge to stop it, but they're trapped on a primitive planet without the technological means for space travel or communication."
+      },
+      {
+        "rank": "60",
+        "title": "Xenogenesis",
+        "author": {
+          "fname": "Octavia",
+          "lname": "Butler"
+        },
+        "read": "No",
+        "inquest": "The Oankali aliens have saved the Earth. For a price. Oankali survival requires constant genetic exchange... and we are their mating stock.",
+        "series": {
+          "name": [
+            "Dawn",
+            "Adulthood Rites",
+            "Imago"
+          ]
+        }
+      },
+      {
+        "rank": "59",
+        "title": "2001",
+        "author": {
+          "fname": "Arthur C.",
+          "lname": "Clarke"
+        },
+        "read": "Yes",
+        "inquest": "How did we get to be what we are?  This series answers that one fundamentally human question. It begins with the establishment of a connection between our ape-ancestors, struggling to merely survive. We are hopelessly outnumbered by the other animals of the planet. An outside force plants the seeds of real intelligence by way of a great black \"monolith.\"  These first conceptual thoughts launch us towards a chain of events into the future. As the future unfolds, our curiosity leads to the discovery of another such box on the moon--proof positive that we are not the only intelligent force in the universe!  It is a discovery that is as impossible for us to understand as our survival problem was millennia ago. Still, humanity presses on, only to discover another box near Jupiter, which brings even more events crucial to humanity. In 3001: The Final Odyssey, many of the questions are--for good or ill--finally answered.",
+        "series": {
+          "name": [
+            "2001",
+            "2010",
+            "2061",
+            "3001"
+          ]
+        }
+      },
+      {
+        "rank": "58",
+        "title": "Earthsea",
+        "author": {
+          "fname": "Ursula K.",
+          "lname": "Le Guin"
+        },
+        "read": "Yes",
+        "inquest": "A misfit boy named Ged studies to become a wizard and eventually is called to help reestablish the balance of the universe: between light and dark, male and female, life and death, magic and its ultimate price.",
+        "series": {
+          "name": [
+            "A Wizard of Earthsea",
+            "The Tombs of Atuan",
+            "The Farthest Shore",
+            "Tehanu"
+          ]
+        }
+      },
+      {
+        "rank": "57",
+        "title": "Fionavar",
+        "author": {
+          "fname": "Guy Gavriel",
+          "lname": "Kay"
+        },
+        "read": "No",
+        "inquest": "A group of modern-day students is mysteriously transported to a fantasy world in peril. When a malevolent deity is released from 1,000 years of imprisonment, the students discover that their fates are intertwined with those of Fionavar.",
+        "series": {
+          "name": [
+            "The Summer Tree",
+            "The Wandering Fire",
+            "The Darkest Road"
+          ]
+        }
+      },
+      {
+        "rank": "56",
+        "title": "Good Omens",
+        "author": [
+          {
+            "fname": "Neil",
+            "lname": "Gaiman"
+          },
+          {
+            "fname": "Terry",
+            "lname": "Pratchett"
+          }
+        ],
+        "read": "No",
+        "inquest": "In this bizarre, end of the world comedy, Armageddon has come, except the angels and devils aren't ready for it."
+      },
+      {
+        "rank": "55",
+        "title": "Slaughterhouse Five",
+        "author": {
+          "fname": "Kurt",
+          "lname": "Vonnegut"
+        },
+        "read": "Yes",
+        "inquest": "The horrors of war are examined as one man shifts back and forth between existences, from experiences in WWII Dresden to captivity on the alien planet Trallamadore."
+      },
+      {
+        "rank": "54",
+        "title": "Pern",
+        "author": {
+          "fname": "Anne",
+          "lname": "McCaffery"
+        },
+        "read": "No",
+        "inquest": "Human riders link minds with benevolent, airplain-sized dragons to fight off the all-devouring Thread.",
+        "series": {
+          "name": [
+            "Dragonflight",
+            "Dragonquest",
+            "Dragonsong",
+            "Dragonsinger",
+            "The White Dragon",
+            "Dragondrums",
+            "Moreta: Dragonlady of Pern",
+            "Nerilka's Story",
+            "Dragonsdawn",
+            "The Renegades of Pern",
+            "All the Weyrs of Pern",
+            "The Chronicles of Pern: First Fall",
+            "The Dolphins of Pern",
+            "Dragonseye",
+            "The Masterharper of Pern",
+            "The Skies of Pern",
+            "A Gift of Dragons",
+            "Dragon's Kin",
+            "Dragonsblood"
+          ]
+        }
+      },
+      {
+        "rank": "53",
+        "title": "Timescape",
+        "author": {
+          "fname": "Gregory",
+          "lname": "Benford"
+        },
+        "read": "No",
+        "inquest": "Near future scientists send messages back in time to 1962 to save the planet."
+      },
+      {
+        "rank": "52",
+        "title": "A Clockwork Orange",
+        "author": {
+          "fname": "Anthony",
+          "lname": "Burgess"
+        },
+        "read": "Yes",
+        "inquest": "When ultraviolent Alex gets caught, he undergoes treatment to have his antisocial urges artificially controlled. Is a person capable of goodness without free will?"
+      },
+      {
+        "rank": "51",
+        "title": "It",
+        "author": {
+          "fname": "Stephen",
+          "lname": "King"
+        },
+        "read": "No",
+        "inquest": "A creature which preys upon the weak, the vulnerable, the abandoned. A creature which becomes your worst nightmare."
+      },
+      {
+        "rank": "50",
+        "title": "Wheel of Time",
+        "author": {
+          "fname": "Robert",
+          "lname": "Jordan"
+        },
+        "read": "Yes",
+        "inquest": "One age dies, another age unfolds, and the web of fate shapes events as each cycle reincarnates old heroes and villains in new flesh. Imprisoned throughout the chaging of the years is the Dark One, fastened by magic in his mountain prison, Shayol Ghul. He yearns to escape and break all that has escaped his grasp, while his minions scour the land subverting, manipulating and otherwise enforcing his dark will.",
+        "series": {
+          "name": [
+            "The Eye of the World",
+            "The Great Hunt",
+            "The Dragon Reborn",
+            "The Shadow Rising",
+            "The Fires of Heaven",
+            "Lord of Chaos",
+            "A Crown of Swords",
+            "The Path of Daggers",
+            "Winter's Heart",
+            "Crossroads of Twilight"
+          ]
+        }
+      },
+      {
+        "rank": "49",
+        "title": "The Princess Bride",
+        "author": {
+          "fname": "William",
+          "lname": "Goldman"
+        },
+        "read": "Yes",
+        "inquest": "A swashbuckling tale of romance and adventure... plus Rats of Unusual Size."
+      },
+      {
+        "rank": "48",
+        "title": "Animal Farm",
+        "author": {
+          "fname": "George",
+          "lname": "Orwell"
+        },
+        "read": "Yes",
+        "inquest": "Mutinous farm animals run off their opressor to establish a livestock utopia."
+      },
+      {
+        "rank": "47",
+        "title": "Mythago Wood",
+        "author": {
+          "fname": "Robert",
+          "lname": "Holdstock"
+        },
+        "read": "No",
+        "inquest": "Celtic and Old English myths come alive in a stretch of primeval woodland that generates living \"ghosts\" from people's unconscious minds."
+      },
+      {
+        "rank": "46",
+        "title": "War of the Worlds",
+        "author": {
+          "fname": "H.G.",
+          "lname": "Wells"
+        },
+        "read": "Yes",
+        "inquest": "The classic alien invasion tale of technologically advanced Martian conquerors with an enourmous Achilles' Heel."
+      },
+      {
+        "rank": "45",
+        "title": "The Wizard of Oz",
+        "author": {
+          "fname": "L. Frank",
+          "lname": "Baum"
+        },
+        "read": "Yes",
+        "inquest": "Dorothy seeks to return home while exploring a fantasy world with her companions. This is first in a series of Oz books, containing much more material than the classic film such as an encounter with the monstruos Hammerheads and the origin of the Tin Man. Alas, no winged monkeys, though."
+      },
+      {
+        "rank": "44",
+        "title": "Emphyrio",
+        "author": {
+          "fname": "Jack",
+          "lname": "Vance"
+        },
+        "read": "Yes",
+        "inquest": "On the planet Halma, the ruling Lords have made mechanization adn mass production illegal to keep workers poor by limiting their output. Ghyl Tarvoke, the son of a master woodcarver, works to overthrow the traditional system and earn fair treatment for the working class."
+      },
+      {
+        "rank": "43",
+        "title": "The Demolished Man",
+        "author": {
+          "fname": "Alfred",
+          "lname": "Bester"
+        },
+        "read": "No",
+        "inquest": "A thrilling murder/suspense story which answers the question, \"How do you commit murder in a 23rd-Century telepathic society?\""
+      },
+      {
+        "rank": "42",
+        "title": "Watchers",
+        "author": {
+          "fname": "Dean",
+          "lname": "Koontz"
+        },
+        "read": "Yes",
+        "inquest": "A genetic experiment creates two super-intelligent beasts. One, a twisted creature of evil escapes and the only one that can stop him is his \"brother\"--a domesticated dog named Einstein."
+      },
+      {
+        "rank": "41",
+        "title": "The Illuminatus Trilogy",
+        "author": [
+          {
+            "fname": "Robert",
+            "lname": "Shea"
+          },
+          {
+            "fname": "Robert Anton",
+            "lname": "Wilson"
+          }
+        ],
+        "read": "Yes",
+        "inquest": "The three books of The Illuminatus are only partly works of the imagination. They tackle all the cover-ups of our time, from who really shot the Kennedys to why there's a pyramid on the one-dollar bill."
+      },
+      {
+        "rank": "40",
+        "title": "The Chronicles of Narnia",
+        "author": {
+          "fname": "C.S.",
+          "lname": "Lewis"
+        },
+        "read": "Yes",
+        "inquest": "This series contains The Lion, the Witch, and the Wardrobe, the most famous book of the series, wherein four children step inside a wardrobe in England and emerge into the magical land of Narnia, a land complete with fauns and talking beavers, a land under the rule and spell of eternal winter by the White Witch.",
+        "series": {
+          "name": [
+            "The Magician's Nephew",
+            "The Lion, the Witch, and the Wardrobe",
+            "The Horse and His Boy",
+            "Prince Caspian",
+            "The Voyage of the Dawn Treader",
+            "The Silver Chair",
+            "The Last Battle"
+          ]
+        }
+      },
+      {
+        "rank": "39",
+        "title": "Starship Troopers",
+        "author": {
+          "fname": "Robert A.",
+          "lname": "Heinlein"
+        },
+        "read": "Yes",
+        "inquest": "A recruit of the future goes through the toughest boot camp in the universe--and into battle against humanity's deadliest enemy. Forget the movie, read the book."
+      },
+      {
+        "rank": "38",
+        "title": "Interview with the Vampire",
+        "author": {
+          "fname": "Anne",
+          "lname": "Rice"
+        },
+        "read": "Yes",
+        "inquest": "The novel that took the gothic mystique of the vampire into the nights of modern San Francisco."
+      },
+      {
+        "rank": "37",
+        "title": "The Green Mile",
+        "author": {
+          "fname": "Stephen",
+          "lname": "King"
+        },
+        "read": "Yes",
+        "inquest": "The eerie struggle of death row inmates as they face the electric chair."
+      },
+      {
+        "rank": "36",
+        "title": "Blood Music",
+        "author": {
+          "fname": "Greg",
+          "lname": "Bear"
+        },
+        "read": "No",
+        "inquest": "A nerdy researcher develops biochips--intelligent cells--and injects them into himself. They spread like a disease, with apocalyptic results."
+      },
+      {
+        "rank": "35",
+        "title": "Mindkiller",
+        "author": {
+          "fname": "Spider",
+          "lname": "Robinson"
+        },
+        "read": "No",
+        "inquest": "What do you do when you find someone can erace minds?  Mindkiller (the first novella in Deathkiller) traces the paths of two men as mysteries in their lives irrevocably draw them to converge on one enigmatic organization--a corporation that is responsible for creating technology that lets people die from pure pleasure. It also has the first permanent means of brainwashing a person. The protagonists decide to try to shut down this cartel, even though they know it will certainly mean their doom. This book reads like a mystery-thriller the first time thruogh, and offers rich characterization on a second reading, and underneath it all, it asks: What makes life worth living?"
+      },
+      {
+        "rank": "34",
+        "title": "Gulliver's Travels",
+        "author": {
+          "fname": "Jonathan",
+          "lname": "Swift"
+        },
+        "read": "Yes",
+        "inquest": "A shipwreck survivor encounters miniature people, giants, and superintelligent talking horses among other things in a series of political satires."
+      },
+      {
+        "rank": "33",
+        "title": "The Book of the New Sun",
+        "author": {
+          "fname": "Gene",
+          "lname": "Wolfe"
+        },
+        "read": "Yes",
+        "inquest": "How many series have a torturer as the main character?  Follow along as a young apprentice torturer graduates to mass executioner, savior of humanity, and finally a ghost.",
+        "series": {
+          "name": [
+            "The Shadow of the Torturer",
+            "The Claw of the Conciliator",
+            "The Sword of the Lictor",
+            "The Citadel of the Autarch",
+            "The Urth of the New Sun"
+          ]
+        }
+      },
+      {
+        "rank": "32",
+        "title": "Helleconia",
+        "author": {
+          "fname": "Brian",
+          "lname": "Adliss"
+        },
+        "read": "No",
+        "inquest": "Civilizations rise and fall on a planet where their year equals 3,000 of our years and winter's like an ice age.",
+        "series": {
+          "name": [
+            "Helleconia Spring",
+            "Helleconia Summer",
+            "Helleconia Winter"
+          ]
+        }
+      },
+      {
+        "rank": "31",
+        "title": "The Hobbit",
+        "author": {
+          "fname": "J.R.R.",
+          "lname": "Tolkien"
+        },
+        "read": "Yes",
+        "inquest": "The hobbit Bilbo Baggins, the wizard Gandalf, and 13 dwarves embark on a quest to retake the dwarven treasure in the Lonely Mountain. Trolls, goblins, giant spiders, and the infamous dragon, Smaug, stand in their way."
+      },
+      {
+        "rank": "30",
+        "title": "Farenheit 451",
+        "author": {
+          "fname": "Ray",
+          "lname": "Bradbury"
+        },
+        "read": "Yes",
+        "inquest": "Firemen in the world of Guy Montag don't read books; they burn them. And Guy enjoys his job. Ten years as a fireman, he never questions the reasons behind book-burning or the pleasure it gives him... until a 17 year-old girl shares a past with him when people were not afraid to read. Guy becomes someone he had once loathed, a book lover, a person who chooses to reject the laws of organized society and indulge in the sins of the written word. He falls from grace to become the quarry he once hunted, his desire for destruction replaced by a desire for knowledge."
+      },
+      {
+        "rank": "29",
+        "title": "Watership Down",
+        "author": {
+          "fname": "Richard",
+          "lname": "Adams"
+        },
+        "read": "Yes",
+        "inquest": "The search for a new home and struggle for survival, all from a rabbit's point of view. A unique take on the biblical story of Exodus."
+      },
+      {
+        "rank": "28",
+        "title": "The Moon is a Harsh Mistress",
+        "author": {
+          "fname": "Robert A.",
+          "lname": "Heinlein"
+        },
+        "read": "Yes",
+        "inquest": "The moon is a penal colony ruled by an iron-fisted administration. The citizens want freedom and turn to a self-aware computer for rebellion plans."
+      },
+      {
+        "rank": "27",
+        "title": "I, Robot",
+        "author": {
+          "fname": "Isaac",
+          "lname": "Asimov"
+        },
+        "read": "Yes",
+        "inquest": "Short stories that set the standard for intelligent robots in science fiction. Most famous for setting down the Three Laws of Robotics now taken for granted."
+      },
+      {
+        "rank": "26",
+        "title": "Le Morte d'Arthur",
+        "author": {
+          "fname": "Sir Thomas",
+          "lname": "Malory"
+        },
+        "read": "Yes",
+        "inquest": "The definitive collection of Arthurian tales--from Lancelot's betrayal to the burth of Mordred to invisible knights."
+      },
+      {
+        "rank": "25",
+        "title": "The Stand",
+        "author": {
+          "fname": "Stephen",
+          "lname": "King"
+        },
+        "read": "No",
+        "inquest": "A virus wipes out most of the world's population. While pockets of people fight to restore civilization, a demonic power threatens the remnants of America. Read the original, edited version."
+      },
+      {
+        "rank": "24",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": {
+          "fname": "Douglas",
+          "lname": "Adams"
+        },
+        "read": "Yes",
+        "inquest": "The book that kicked off the five-book trilogy. Arthur Dent is rescued just before the Earth is demolished for a galactic freeway. He and his companion Ford Prefect encounter a depressed robot, visit the world where sofas come from, and brave the dangers of Vogon poetry."
+      },
+      {
+        "rank": "23",
+        "title": "A Princess of Mars",
+        "author": {
+          "fname": "Edgar Rice",
+          "lname": "Burroughs"
+        },
+        "read": "Yes",
+        "inquest": "In the first book of the \"John Carter\" series, a Confederate soldier finds himself transported to Mars where he wins acclaim as a warrior."
+      },
+      {
+        "rank": "22",
+        "title": "Fafhrd and the Gray Mouser",
+        "author": {
+          "fname": "Fritz",
+          "lname": "Lieber"
+        },
+        "read": "No",
+        "inquest": "A barbarian and master thief band together and bungle their way through encounters with assassin guilds, deadly sorcerers, and scheming gods.",
+        "series": {
+          "name": [
+            "Swords and Deviltry",
+            "Swords Against Death",
+            "Swords in the Mist",
+            "Swords against Wizardry",
+            "Swords of Lankhmar",
+            "Swords and Ice Magic",
+            "The Knight and Knave of Swords"
+          ]
+        }
+      },
+      {
+        "rank": "21",
+        "title": "The Time Machine",
+        "author": {
+          "fname": "H.G.",
+          "lname": "Wells"
+        },
+        "read": "Yes",
+        "inquest": "A time-traveller explores a conflict in the year 802,701 AD between the meek and beautiful Eloi and the underground-dwelling, ruthless Morlocks."
+      },
+      {
+        "rank": "20",
+        "title": "Ringworld",
+        "author": {
+          "fname": "Larry",
+          "lname": "Niven"
+        },
+        "read": "Yes",
+        "inquest": "A space expedition crashes on an artificial planet shaped like a giant hula hooop 190 million miles in diameter. The survivors must fight the barbarian descendants of the original builders as they adventure across the ring in search of answers."
+      },
+      {
+        "rank": "19",
+        "title": "The Uplift Trilogy",
+        "author": {
+          "fname": "David",
+          "lname": "Brin"
+        },
+        "read": "Yes",
+        "inquest": "The other races across the galaxy--including dophins and chimps--gained intelligence by genetic modification or \"uplift\" and can trace their heritage to their benefactors. Mankind cannot, leaving them at the bottom of the universal totem pole against technologically superior and often hostile alien races.",
+        "series": {
+          "name": [
+            "Sundiver",
+            "Startide Rising",
+            "The Uplift War"
+          ]
+        }
+      },
+      {
+        "rank": "18",
+        "title": "Lightning",
+        "author": {
+          "fname": "Dean",
+          "lname": "Koontz"
+        },
+        "read": "Yes",
+        "inquest": "A time traveller from the past seeks to avert Nazi Germany's alterations of the present."
+      },
+      {
+        "rank": "17",
+        "title": "The Anubis Gates",
+        "author": {
+          "fname": "Tim",
+          "lname": "Powers"
+        },
+        "read": "Yes",
+        "inquest": "A modern scholar gets caught up in time travel, body-swapping, swashbuckling, and sorcery in London, circa 1810. Think Charles Dickens meets Indiana Jones."
+      },
+      {
+        "rank": "16",
+        "title": "The Sword of Shannara",
+        "author": {
+          "fname": "Terry",
+          "lname": "Brooks"
+        },
+        "read": "Yes",
+        "inquest": "The first book of the \"Shannara\" series pits Shea Ohmsford against the evil Warlock Lord and his Skull Bearer minions. This book was pivotal in popularizing modern fantasy."
+      },
+      {
+        "rank": "15",
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": {
+          "fname": "Philip K.",
+          "lname": "Dick"
+        },
+        "read": "Yes",
+        "inquest": "A Bladerunner policeman is assigned to hunt down androids posing as human and questions the definition of \"humanity\" in the process."
+      },
+      {
+        "rank": "14",
+        "title": "Frankenstein",
+        "author": {
+          "fname": "Mary",
+          "lname": "Shelley"
+        },
+        "read": "Yes",
+        "inquest": "The classic tale of a mad scientist's creation, a monster pieced together from graveyard parts, and the monster's struggle to have the world recognize his humanity."
+      },
+      {
+        "rank": "13",
+        "title": "Tigana",
+        "author": {
+          "fname": "Guy Gavriel",
+          "lname": "Kay"
+        },
+        "read": "No",
+        "inquest": "In an act of revenge, a powerful sorcerer erases the kingdom of Tigana from existence. But a small band of heroes clings to the memory of their homeland and quests to restore Tigana once again to its rightful place."
+      },
+      {
+        "rank": "12",
+        "title": "The Stars My Destination",
+        "author": {
+          "fname": "Alfred",
+          "lname": "Bester"
+        },
+        "read": "Yes",
+        "inquest": "When Gully Foyle gets screwed over and vows revenge, he transforms himself into an all-powerful quasi-Superman with the power to change the universe."
+      },
+      {
+        "rank": "11",
+        "title": "Hyperion",
+        "author": {
+          "fname": "Dan",
+          "lname": "Simmons"
+        },
+        "read": "Yes",
+        "inquest": "The Shrike:  the ultimate killing machine that can stop time with a thought. The Hegemony/AI Consortium alliance: an empire that dominates an entire galaxy. The Ousters: eon-long mutated humanoids bent on overthrowing the Hegemony. Add them up and you've got Armageddon.",
+        "series": {
+          "name": [
+            "Hyperion",
+            "Fall of Hyperion",
+            "Endymion",
+            "Rise of Endymion"
+          ]
+        }
+      },
+      {
+        "rank": "10",
+        "title": "1984",
+        "author": {
+          "fname": "George",
+          "lname": "Orwell"
+        },
+        "read": "Yes",
+        "inquest": "The Ministry of Truth says that you will enjoy this book. It's the only book you can read; there are no others available. You will two hours after dinner every day reading this book; the telescreens ensure this. Big Brother is your friend."
+      },
+      {
+        "rank": "9",
+        "title": "The Man in the High Castle",
+        "author": {
+          "fname": "Philip K.",
+          "lname": "Dick"
+        },
+        "read": "Yes",
+        "inquest": "Full of paranoia and sophisticated reality games, this \"what if Nazi Germany had won\" storyline is the best alternate history ever written."
+      },
+      {
+        "rank": "8",
+        "title": "Elric of Melniboné",
+        "author": {
+          "fname": "Michael",
+          "lname": "Moorcock"
+        },
+        "read": "Yes",
+        "inquest": "An albino warrior/sorceror from a dying race seeks out a soul-sucking sword and gets caught up in the ultimate battle between Order and Chaos.",
+        "series": {
+          "name": [
+            "Elric of Melniboné",
+            "Sailor on the Seas of Fate",
+            "The Weird of the White Wolf",
+            "The Vanishing Tower",
+            "The Revenge of the Rose",
+            "The Bane of the Black Sword",
+            "Stormbringer"
+          ]
+        }
+      },
+      {
+        "rank": "7",
+        "title": "Dune",
+        "author": {
+          "fname": "Frank",
+          "lname": "Herbert"
+        },
+        "read": "Yes",
+        "inquest": "The first book in the \"Dune\" series tracks one of the most powerful psychics in the universe, Paul Atreides, as he learns to deal with the political machinations and environmental savagery of the desert planet Arrakis while balancing his growing powers."
+      },
+      {
+        "rank": "6",
+        "title": "Foundation",
+        "author": {
+          "fname": "Isaac",
+          "lname": "Asimov"
+        },
+        "read": "Yes",
+        "inquest": "A monumental tale of a galactic empire spiraling into decline and the secret society of scientists maneuvering to control the damage. The story begins on the capital planet of an empire that has stood for millenia. And just one person, mathematics professor Hari Seldon, knows what's going to happen. Seldon has discovered a new science--psychohistory--that allows him to predict and control the future. Psychohistory proves that the fall of the empire can't be stopped, but actions can be taken to shorten the coming gloom and lay the foundation for a Second Empire. Gripping throughout, it doesn't rely on violence to further the plot for as the character Salvor Hardin says, \"Violence is the last refuge of the incompetent.\""
+      },
+      {
+        "rank": "5",
+        "title": "The Chronicles of Thomas Covenant the Unbeliever",
+        "author": {
+          "fname": "Stephen R.",
+          "lname": "Donaldson"
+        },
+        "read": "Yes",
+        "inquest": "A real-world leper, Thomas Covenant, gets transported to a fantasy world besieged by a corrupt and malevolent force. Only Covenant can save the world with the \"wild magic\" he brought with him, but he doesn't believe this fantasy world exists.",
+        "series": {
+          "name": [
+            "Lord Foul's Bane",
+            "The Illearth War",
+            "The Power that Preserves",
+            "The Wounded Land",
+            "The One Tree",
+            "White Gold Wielder"
+          ]
+        }
+      },
+      {
+        "rank": "4",
+        "title": "Neuromancer",
+        "author": {
+          "fname": "William",
+          "lname": "Gibson"
+        },
+        "read": "Yes",
+        "inquest": "A down-on-his-luck hacker and a sleek razor-nailed mercenary discover the secrets of a newborn AI. Cyberpunk's first defining work and the first of Gibson's Sprawl books."
+      },
+      {
+        "rank": "3",
+        "title": "Ender",
+        "author": {
+          "fname": "Orson Scott",
+          "lname": "Card"
+        },
+        "read": "Yes",
+        "inquest": "By age 8, Ender Wiggins becomes Earth's greatest military genius. Confronted with the realities of war, Ender chooses to abandon the military and become a \"speaker for the dead,\" a councilor, truthseeker, and arbitrator between families in need of guidance. Unfortunately, the universe has other plans for him.",
+        "series": {
+          "name": [
+            "Ender's Game",
+            "Speaker for the Dead",
+            "Xenocide",
+            "Children of the Mind"
+          ]
+        }
+      },
+      {
+        "rank": "2",
+        "title": "The Chronicles of Amber",
+        "author": {
+          "fname": "Roger",
+          "lname": "Zelazny"
+        },
+        "read": "Yes",
+        "inquest": "Amber is the one true world. All others, including Earth, are merely shadows. Prince Corwin, rightful successor to the Amber throne, must master these alternate realities, fight demonic assassins, and survive the ruthless schemes of his own family to gain the crown.",
+        "series": {
+          "name": [
+            "Nine Princes in Amber",
+            "The Guns of Avalon",
+            "Sign of the Unicorn",
+            "The Hand of Oberon",
+            "The Courts of Chaos"
+          ]
+        }
+      },
+      {
+        "rank": "1",
+        "title": "The Lord of the Rings",
+        "author": {
+          "fname": "J.R.R.",
+          "lname": "Tolkien"
+        },
+        "read": "Yes",
+        "inquest": "It's the best.",
+        "series": {
+          "name": [
+            "The Fellowship of the Ring",
+            "The Two Towers",
+            "The Return of the King"
+          ]
+        }
+      }
+    ]
+  }
+}
